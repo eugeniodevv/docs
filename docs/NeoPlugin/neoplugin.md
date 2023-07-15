@@ -13,6 +13,7 @@ Official NeoProtect plugin maintained by [EinfacheSache (aka CubeAttack)](https:
 |:--------------------------------------------------------------------|:-------------------:|
 | Proxy Protocol                                                      | :white_check_mark:  |
 | Debug-tool for high ping problem (BungeeCord, Velocity coming soon) | :white_check_mark:  |
+| Toggle NeoProtect settings in-game                                   | :white_check_mark:  |
 | Auto update backend IP                                              | :white_check_mark:  |
 | Anti-portscanner (Bungeecord + Velocity)                            | :white_check_mark:  |
 | IPanic mode command (toggle AntiBot level)                          | :white_check_mark:  |
