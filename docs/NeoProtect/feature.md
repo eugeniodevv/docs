@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Feature
 ---
 
-## Feature
+# Feature
 
 | Feature                                                             |      Available      |
 |:--------------------------------------------------------------------|:-------------------:|
