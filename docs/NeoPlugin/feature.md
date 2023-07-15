@@ -5,6 +5,8 @@ title: Feature
 
 # Feature
 
+Here you can see the current features of NeoPluing, these are constantly being expanded and are therefore not always up to date. If you have any feature ideas yourself, let us know and we will possibly incorporate them into the NeoPlugin.
+
 | Feature                                                             |      Available      |
 |:--------------------------------------------------------------------|:-------------------:|
 | Proxy Protocol                                                      | :white_check_mark:  |
