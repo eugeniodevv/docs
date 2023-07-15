@@ -5,6 +5,8 @@ title: Permissions
 
 # Permissions
 
+You have to set the permission neoprotect.admin before you can start the setup.
+
 | Command / Feature    | Description                                                 | Permission                             |
 |:---------------------|-------------------------------------------------------------|----------------------------------------|
 | /np setup            | start the setup (setup set API-KEY, backend and gameshield) | neoprotect.admin                       |
