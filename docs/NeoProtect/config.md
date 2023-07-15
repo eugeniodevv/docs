@@ -1,3 +1,10 @@
+---
+sidebar_position: 5
+title: Config explanation
+---
+
+# Config explanation
+
 ```
 # Don't change anything here if you don't know what you're doing
 APIKey: '' # The API-KEY is set automatically during setup
