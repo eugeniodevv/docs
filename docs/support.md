@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-title: 🤔 Support
+title: "🤔 Support"
 ---
 
 # Our fabulous Support

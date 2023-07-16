@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-title: 💥 Traffic Limits
+title: "💥 Traffic Limits"
 ---
 
 # Traffic Limits and how they work
