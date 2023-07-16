@@ -1,8 +1,8 @@
 {
-  "label": "Setup",
+  "label": "🚀 Setup",
   "position": 8,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Setup the Backends and your DNS records correctly using this guide."
   }
 }

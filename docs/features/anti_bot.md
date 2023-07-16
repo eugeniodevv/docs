@@ -3,7 +3,7 @@
 Our bot detection system utilizes advanced algorithms that constantly evolve to detect new types of bot activity,
 ensuring the highest level of protection for our customers.
 The system monitors a variety of metrics, including player behavior, packet patterns, and IP addresses,
-to accurately identify and block bots in real-time.
+to accurately identify and block bots in real time.
 
 The checks are conducted on our edge, which **eliminates the need for additional software or plugins on your server**.
 

@@ -1,4 +1,10 @@
-# Billing
+---
+sidebar_position: 15
+slug: billing
+title: 💳 Billing
+---
+
+# How to pay?
 
 ## Prepaid
 
