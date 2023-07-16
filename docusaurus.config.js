@@ -65,7 +65,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} NeoProtect.<p>Legal: <a href="https://neoprotect.net/anbieterkennzeichnung">Anbieterkennzeichnung</a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} NeoProtect.<p>Legal: <a href="https://neoprotect.net/imprint">Anbieterkennzeichnung</a>`,
       },
       prism: {
         theme: lightCodeTheme,
