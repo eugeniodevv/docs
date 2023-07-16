@@ -26,7 +26,7 @@ The NeoPlugin is compatible with BungeeCord, Velocity, Bukkit, Spigot and Paper.
 
 :::
 
-You can install the latest version of our plugin using the [Guide](../neoplugin/install_instructions.md)
+You can install the latest version of our plugin using the [Guide](neoplugin/install_instructions.md)
 
 Open `config.yml` and set:
 
