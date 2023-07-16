@@ -5,7 +5,7 @@
 We do protect our users against all kinds of Layer 4 attacks.
 This protection sits at the first layer of our protection system and is capable of filtering up
 to **30 Tbit/s** of dirty traffic.
-You can get more detailed information here: [How the protection works](how_it_works.md)
+You can get more detailed information here: [How the protection works](../how_it_works.md)
 
 When the attack is global, the mitigation services, replicated in eight OVH data centers across
 three continents, activate simultaneously to combine their power and absorb the traffic.
