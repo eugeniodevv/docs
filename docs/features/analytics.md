@@ -1,7 +1,7 @@
 # Analytics
 
-Our faboulous analytics allows nearly real time traffic & attack analysis.
-You are also able to get an overview of your players behaviour to make your fantastic server even more fantastic.
+Our fabulous analytics allows nearly real-time traffic & attack analysis.
+You are also able to get an overview of your player's behavior to make your fantastic server even more fantastic.
 We also provide notifications via E-Mail, Webhook and our panel, so you will never miss a single attack targeting your server.
 
 ## What data can I see?

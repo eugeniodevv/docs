@@ -12,9 +12,8 @@ If you still want to disable or purge the cache completely it's possible through
 our [Panel](https://panel.neoprotect.net) or our [Rest API](rest_api.md).
 
 Note: We always cache the server status for each of your domains separately, which means that even
-MOTD plugins with special behaviour can work as expected.
+MOTD plugins with special behavior can work as expected.
 
 ## Why do I see "13.37.69.69 initial handler has pinged" in the console?
 
-That's because our proxy periodically fetches the status (MOTD & icon) from your backend servers,
-in order to maintain the cache (see above).
+That's because our proxy periodically fetches the status (MOTD & icon) from your backend servers, to maintain the cache (see above).

@@ -1,11 +1,11 @@
-# Proxy Protocol (ip forwarding)
+# Proxy Protocol (IP forwarding)
 
 [Proxy Protocol](https://www.haproxy.org/download/1.8/doc/proxy-protocol.txt) is a standardized protocol,
-which allows your backend server to receive the **real ip addresses** of your users.
+which allows your backend server to receive the **real IP addresses** of your users.
 
 :::caution
 
-Disabling Proxy Protocol can cause many problems with your backend server, e.g., ip banning.
+Disabling Proxy Protocol can cause many problems with your backend server, e.g., IP banning.
 
 That's why you should **always enable Proxy Protocol**.
 
@@ -17,6 +17,20 @@ That's why you should **always enable Proxy Protocol**.
 2. Enable "Proxy Protocol"
 3. Configure your backend server (see below)
 4. Restart your server to apply the config changes
+
+### NeoPlugin
+
+:::tip
+The NeoPlugin is compatible with BungeeCord, Velocity, Bukkit, Spigot and Paper. You should use it if possible.
+:::
+
+You can install the latest version of our plugin using the [Guide](/docs/neoplugin/install_instructions.md)
+
+Open `config.yml` and set:
+
+```yaml
+ProxyProtocol: true
+```
 
 ### BungeeCord / Waterfall
 
@@ -30,7 +44,7 @@ proxy_protocol: true
 
 Open `velocity.toml` and set:
 
-```toml
+```js
 haproxy-protocol = true
 ```
 
@@ -46,22 +60,12 @@ Just open `config/paper-global.yml` and set:
 proxy-protocol: true
 ```
 
-### Bukkit / Spigot / Paper < 1.19
-
-Only enable it if you are not running a proxy like BungeeCord/Velocity in front of your server.
-
-If your server software doesn't support proxy protocol natively,
-just install a plugin which implements the proxy protocol:
-
-https://www.spigotmc.org/resources/haproxy-protocol-implementor.103193/
-
 ### Geyser
 
 Open `config.yml` and set:
 
 ```yaml
 enable-proxy-protocol: true
-...
 use-proxy-protocol: true
 ```
 
