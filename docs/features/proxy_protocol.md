@@ -71,4 +71,4 @@ enable-proxy-protocol: true
 use-proxy-protocol: true
 ```
 
-Don't hesitate to contact our [Support](support.md) if you have further questions.
+Don't hesitate to contact our [Support](../support.md) if you have further questions.

@@ -9,7 +9,7 @@ Login to our [Panel](https://panel.neoprotect.net) and go to the domain settings
 There you can see the protected CNAME record of your server. Click on the copy button on the right to save it for the next step.
 
 It's not possible to serve your Geyser instance and Website on the same Domain Name.
-Anyways it's possible to serve your Geyser instance and Java server on the same Domain Name. In this case, the Java DNS record has to be of the type [SRV](https://docs.neoprotect.net/setup/dns#srv-setup).
+Anyways it's possible to serve your Geyser instance and Java server on the same Domain Name. In this case, the Java DNS record has to be of the type [SRV](dns.md#srv-setup).
 
 ### CNAME setup
 - Create a new record with the type "CNAME".

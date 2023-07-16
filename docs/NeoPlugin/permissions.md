@@ -5,7 +5,7 @@ title: Permissions
 
 # Permissions
 
-You have to set the permission neoprotect.admin before you can start the setup.
+You have to set the permission ``neoprotect.admin`` before you can start the setup.
 
 | Command / Feature    | Description                                                 | Permission                             |
 |:---------------------|-------------------------------------------------------------|----------------------------------------|
