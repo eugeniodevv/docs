@@ -5,7 +5,7 @@ Login to your DNS provider and click on the domain you want to protect.
 We will assume you are using [Cloudflare](https://dash.cloudflare.com) to manage your domain in this guide.
 
 ## 2. Create a bedrock subdomain record
-Login to our [Panel](https://panel.neoprotect.net) and go to the domain settings of your server.
+Login to our [Panel](https://panel.neoprotect.net) and go to the Bedrock / Geyser section of your server.
 There you can see the protected CNAME record of your server. Click on the copy button on the right to save it for the next step.
 
 It's not possible to serve your Geyser instance and Website on the same Domain Name.
@@ -19,7 +19,6 @@ Anyways it's possible to serve your Geyser instance and Java server on the same 
 - Ensure that the Cloudflare proxy (orange cloud) is disabled!
 
 After you filled out all the required details, click on **save**.
-Now you can securely connect to your server using the domain, you just set up.
 
 Please keep in mind that it can take some minutes before your DNS records are applied by your provider.
 
