@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 slug: how
-title: "⚙️ How it works"
+title: "How it works"
 ---
 
 # How it works

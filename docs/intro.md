@@ -31,4 +31,14 @@ A server/network can have multiple domains and backend servers.
 Take a look here: [Domain Setup](setup/dns.md)
 
 
-## Finished
+## 4. Configure proxy protocol
+
+_While it is recommended to use the following instructions you are able to configure it manually_
+
+- Download our plugin which you can find [here](https://github.com/NeoProtect/NeoPlugin/releases/download/v1.1.9-Beta/NeoProtect-v1.1.9-Beta.jar)
+- Put the plugin in your backends plugin folder (If you have a network, put it onto your proxy only)
+- Re-start your proxy/server and join your server with the permission **neoprotect.admin**
+- Follow the in-game setup (The api key can be found [here](https://panel.neoprotect.net/profile) under "API")
+- And you are done and should see the IPs of your players
+
+## Finished!
