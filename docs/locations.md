@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 slug: /locations
-title: "🌍 Locations"
+title: "Locations"
 ---
 
 # Where are we located?

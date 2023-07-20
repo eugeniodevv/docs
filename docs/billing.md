@@ -1,7 +1,7 @@
 ---
 sidebar_position: 15
 slug: billing
-title: "💳 Billing"
+title: "Billing"
 ---
 
 # How to pay?
