@@ -43,7 +43,7 @@ With this method we are able to locate where the issue lies.
 
 #### Tutorial:
 
-To use that you need to [download our plugin](../neoplugin/install_instructions.md) and have it setup correctly.
+To use that you need to [download our plugin](../features/plugin.md#install-instructions) and have it setup correctly.
 
 After that you are able to use the command `/np debugTool` to start the debug.
 It will run and once its finished, you will get a path where you can find the gathered information.
