@@ -24,7 +24,7 @@ A traceroute helps to identify weak spots in your route over the internet.
 1. Open your command line (CMD)
 2. Enter the following command:
    - Windows: `tracert anycast.neoprotect.ovh`
-   - Linux: `traceroute anycast.neoprotect.ovh`
+   - Linux/Mac: `traceroute anycast.neoprotect.ovh`
 3. Wait until it finishes to print hops (can take a bit longer on windows)
 4. Send a screenshot of that into your ticket
 
