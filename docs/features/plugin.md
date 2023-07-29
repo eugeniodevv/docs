@@ -7,9 +7,10 @@ This is an open-source project, go contribute [here](https://github.com/NeoProte
 
 ## Install Instructions
 
-Here you will find the instructions for installing and setting up the plugin, we assume that you already have knowledge of Minecraft plugins
+Here you will find the instructions for installing and setting up the plugin;
+we assume that you already have knowledge of Minecraft plugins
 
-1) First, stop your server/network and put the plugin jar into the plugins folder.
+1) First, stop your server/network and put the plugin jar into the plugins' folder.
    Continue by starting your server and note that if there is a folder in the plugins folder called "NeoProtect",
    don't change anything there.
 
@@ -42,8 +43,8 @@ AutoUpdater: ENABLED
 
 Here you can see the current features of NeoPlugin, these are constantly being expanded and are therefore not always up to date. If you have any feature ideas yourself, let us know, and we will possibly incorporate them into the NeoPlugin.
 
-| Feature                                                   |      Available      |
-|:----------------------------------------------------------|:-------------------:|
+| Feature                                                    |      Available      |
+|:-----------------------------------------------------------|:-------------------:|
 | Proxy Protocol                                             | :white_check_mark:  |
 | Debug-tool for high ping problem (BungeeCord + Velocity )  | :white_check_mark:  |
 | Auto update backend IP                                     | :white_check_mark:  |
@@ -60,10 +61,10 @@ You have to set the permission ``neoprotect.admin`` before you can start the set
 
 | Command / Feature    | Description                                                 | Permission                             |
 |:---------------------|-------------------------------------------------------------|----------------------------------------|
-| /np setup            | start the setup (setup set API-KEY, backend and gameshield) | neoprotect.admin                       |
-| /np ipanic           | toggle AntiBot level                                        | neoprotect.admin                       |
+| /np setup            | start the setup (setup set API-KEY, backend and GameShield) | neoprotect.admin                       |
+| /np iPanic           | toggle AntiBot level                                        | neoprotect.admin                       |
 | /np toggle (option)  | toggle different options                                    | neoprotect.admin                       |
 | /np debugTool        | start debug tool                                            | neoprotect.admin                       |
-| /np setgameshield    | set gameshield for establish the connection to NeoProtect   | neoprotect.admin                       |
-| /np setbackend       | set backend for establish the connection to NeoProtect      | neoprotect.admin                       |
+| /np setGameShield    | set GameShield for establish the connection to NeoProtect   | neoprotect.admin                       |
+| /np setBackend       | set backend for establish the connection to NeoProtect      | neoprotect.admin                       |
 | under attack message | In-game message if server is under attack                   | neoprotect.admin<br/>neoprotect.notify |
