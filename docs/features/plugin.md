@@ -13,7 +13,7 @@ Here you will find the instructions for installing and setting up the plugin, we
    Continue by starting your server and note that if there is a folder in the plugins folder called "NeoProtect",
    don't change anything there.
 
-2) Now join the server while having the permission "neoprotect.admin" when joining
+2) Now join the server while having the permission "neoprotect.admin" when joining,
    and you should now see a message in the chat telling you how to proceed.
 
 
@@ -30,6 +30,12 @@ gameshield:
   serverId: '' # The serverID is set automatically during setup
   backendId: '' # The backendID is set automatically during setup
   autoUpdateIP: false # This setting automatically sets the IP of the NeoProtect backend every 10 seconds
+DebugMode: false # IMPORTANT Please ensure that you activate this option solely upon receiving a prompt from a NeoProtect maintainer.
+# This setting is only for paid costumer and allow you to disable the AutoUpdater
+# 'ENABLED'  (Recommended/Default) Update/Downgrade plugin to the current version  
+# 'DISABLED' AutoUpdater just disabled
+# 'DEV'      Only update to the latest version (Please never use this)
+AutoUpdater: ENABLED
 ```
 
 ## Features
@@ -38,14 +44,15 @@ Here you can see the current features of NeoPlugin, these are constantly being e
 
 | Feature                                                   |      Available      |
 |:----------------------------------------------------------|:-------------------:|
-| Proxy Protocol                                            | :white_check_mark:  |
-| Debug-tool for high ping problem (BungeeCord + Velocity ) | :white_check_mark:  |
-| Auto update backend IP                                    | :white_check_mark:  |
-| Anti-port-scanner (BungeeCord + Velocity)                 | :white_check_mark:  |
-| IPanic mode command (toggle AntiBot level)                | :white_check_mark:  |
-| Some commands to interact with NeoProtect intern system   | :white_check_mark:  |
-| In-game message if server is under attack                 | :white_check_mark:  |
-| In-game analytics                                         | :white_check_mark:  |
+| Proxy Protocol                                             | :white_check_mark:  |
+| Debug-tool for high ping problem (BungeeCord + Velocity )  | :white_check_mark:  |
+| Auto update backend IP                                     | :white_check_mark:  |
+| Anti-port-scanner (BungeeCord + Velocity)                  | :white_check_mark:  |
+| IPanic mode command (toggle AntiBot level)                 | :white_check_mark:  |
+| Some commands to interact with NeoProtect intern system    | :white_check_mark:  |
+| In-game message if server is under attack                  | :white_check_mark:  |
+| In-game analytics                                          | :white_check_mark:  |
+| AutoUpdater automatically update to the current Version    | :white_check_mark:  |
 
 ## Permissions
 
