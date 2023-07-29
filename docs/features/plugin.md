@@ -59,12 +59,16 @@ Here you can see the current features of NeoPlugin, these are constantly being e
 
 You have to set the permission ``neoprotect.admin`` before you can start the setup.
 
-| Command / Feature    | Description                                                 | Permission                             |
-|:---------------------|-------------------------------------------------------------|----------------------------------------|
-| /np setup            | start the setup (setup set API-KEY, backend and GameShield) | neoprotect.admin                       |
-| /np iPanic           | toggle AntiBot level                                        | neoprotect.admin                       |
-| /np toggle (option)  | toggle different options                                    | neoprotect.admin                       |
-| /np debugTool        | start debug tool                                            | neoprotect.admin                       |
-| /np setGameShield    | set GameShield for establish the connection to NeoProtect   | neoprotect.admin                       |
-| /np setBackend       | set backend for establish the connection to NeoProtect      | neoprotect.admin                       |
-| under attack message | In-game message if server is under attack                   | neoprotect.admin<br/>neoprotect.notify |
+| Command / Feature               | Description                                                 | Permission                             |
+|:--------------------------------|-------------------------------------------------------------|----------------------------------------|
+| /np setup                       | start the setup (setup set API-KEY, backend and GameShield) | neoprotect.admin                       |
+| /np iPanic                      | toggle AntiBot level                                        | neoprotect.admin                       |
+| /np analytics                   | show neoprotect stats in-game                               | neoprotect.admin                       |
+| /np toggle (option)             | toggle different options                                    | neoprotect.admin                       |
+| /np whitelist (add/remove) (ip) | add/remove ips to Neoprotect whitelist                      | neoprotect.admin                       |
+| /np blacklist (add/remove) (ip) | add/remove ips to Neoprotect blacklist                      | neoprotect.admin                       |
+| /np debugTool (cancel/amount)   | start debug tool                                            | neoprotect.admin                       |
+| /np directConnectWhitelist (ip) | allow a ip to connect direct over server ip                 | neoprotect.admin                       |
+| /np setGameShield               | set GameShield for establish the connection to NeoProtect   | neoprotect.admin                       |
+| /np setBackend                  | set backend for establish the connection to NeoProtect      | neoprotect.admin                       |
+| under attack message            | In-game message if server is under attack                   | neoprotect.admin<br/>neoprotect.notify |
