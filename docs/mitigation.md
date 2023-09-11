@@ -6,7 +6,7 @@ ranging from simple Layer 3/4 attacks to complex Layer 7 attacks.
 ## Anycasting
 
 We operate multiple PoPs (points of presence) around the world, which can be found
-[here](../locations.md).
+[here](locations.md).
 If an attack is launched against our network it will get distributed across all of our PoPs,
 depending on where the attack is launched from.
 

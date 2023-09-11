@@ -3,7 +3,10 @@
 This plugin is currently maintained by our team member Tom. 
 Feel free to ping him in your ticket if you have a question or problem regarding the plugin.
 
-This is an open-source project, go contribute [here](https://github.com/NeoProtect/NeoPlugin)
+This is an open-source project, go contribute [here](https://github.com/NeoProtect/NeoPlugin).
+
+## Download
+[Latest release](https://github.com/NeoProtect/NeoPlugin/releases/latest)
 
 ## Install Instructions
 
