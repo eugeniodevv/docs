@@ -1,3 +1,9 @@
+---
+sidebar_position: 2
+slug: /mitigation
+title: "DDoS Mitigation"
+---
+
 # DDoS Mitigation
 
 Our DDoS mitigation system consists of multiple stages to filter all kinds of DDoS attacks,
