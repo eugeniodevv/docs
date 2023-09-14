@@ -14,13 +14,13 @@ guarantee low latencies and zero packet loss.
 - Ashburn, USA
 
 To check the latency from our PoPs you may visit our [Looking Glass](https://lg.neoprotect.net).
-If you are interested in a quick overview of our Tier 1 carriers you can check out https://bgp.tools/as/199414#connectivity.
+If you are interested in a quick overview of our carriers you can check out https://bgp.tools/as/199414#connectivity.
 
 ## Legacy locations (OVHcloud)
 - Frankfurt, Germany
 - Warsaw, Poland
 - Mumbai, India (Neo plan or higher)
 
-Over time the legacy locations will be replaced by our own PoPs.
+Over time the legacy locations will be replaced by our own [PoPs](#as199414-pops).
 
 If none of these locations fit your needs you may contact us on our [Discord](https://discord.neoprotect.net) for a custom solution.
