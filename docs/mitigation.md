@@ -31,7 +31,7 @@ own scrubbing nodes.
 Additionally, all of our subnets are protected by their own proprietary anti-DDoS solution
 to handle more sophisticated Layer 3/4 attacks.
 
-These rules alone can drop attacks of up to **120 Tbit/s** on the edge.
+These rules alone can drop attacks of up to **130 Tbit/s** on the edge.
 
 ### Common blocked L3/L4 attacks
 - UDP floods of any kind
