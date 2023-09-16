@@ -26,7 +26,12 @@ closest PoP automatically.
 
 We have deployed rules at the core switches of our Upstream provider ([Datacamp](https://www.datacamp.co.uk)).
 That allows us to drop large scale volumetric attacks, like amplification & reflection, before reaching our
-own scrubbing nodes. These rules alone can drop attacks of up to **120 Tbit/s**.
+own scrubbing nodes.
+
+Additionally, all of our subnets are protected by their own proprietary anti-DDoS solution
+to handle more sophisticated Layer 3/4 attacks.
+
+These rules alone can drop attacks of up to **120 Tbit/s** on the edge.
 
 ### Common blocked L3/L4 attacks
 - UDP floods of any kind
@@ -41,7 +46,8 @@ own scrubbing nodes. These rules alone can drop attacks of up to **120 Tbit/s**.
 
 ## Layer 7 Protection
 
-Our Layer 7 Protection is always active and works in-line.
+Our Layer 7 Protection is always active and works in-line with zero TTM (time to mitigate).
+All scrubbing nodes are connected with redundant high-bandwidth ports (n x 100G).
 
 Every incoming packet is checked to make sure that it follows a specific application protocol,
 like the [Minecraft Protocol](https://wiki.vg/Protocol).
