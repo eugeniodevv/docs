@@ -18,22 +18,6 @@ That's why you should **always enable Proxy Protocol**.
 3. Configure your backend server (see below)
 4. Restart your server to apply the config changes
 
-### NeoPlugin
-
-:::tip
-
-The NeoPlugin is compatible with BungeeCord, Velocity, Bukkit, Spigot and Paper. You should use it if possible.
-
-:::
-
-You can install the latest version of our plugin using the [Guide](../features/neoplugin.md#install-instructions)
-
-Open `config.yml` and set:
-
-```yaml
-ProxyProtocol: true
-```
-
 ### BungeeCord / Waterfall
 
 Open `config.yml` and set:

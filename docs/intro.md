@@ -33,12 +33,7 @@ Take a look here: [Domain Setup](setup/dns.md)
 
 ## 4. Configure proxy protocol
 
-_While it is recommended to use the following instructions you are able to configure it manually_
-
-- Download our plugin which you can find [here](https://github.com/NeoProtect/NeoPlugin/releases/latest)
-- Put the plugin in your backends plugin folder (If you have a network, put it onto your proxy only)
-- Re-start your proxy/server and join your server with the permission **neoprotect.admin**
-- Follow the in-game setup (The api key can be found [here](https://panel.neoprotect.net/profile) under "API")
-- And you are done and should see the IPs of your players
+Enable Proxy Protocol using our [Guide](features/proxy_protocol.md).
+If you need any help you can visit our [Discord Server](https://discord.neoprotect.net).
 
 ## Finished!
