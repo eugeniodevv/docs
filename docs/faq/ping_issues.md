@@ -29,23 +29,3 @@ A traceroute helps to identify weak spots in your route over the internet.
 4. Send a screenshot of that into your ticket
 
 Note that this needs to be done by the players having these issues.
-
-### Via our built-in debug tool
-
-This helps us to identify at which tcp connection the problem lies.
-
-The typical proxying structure would look like this:
-
-_Player_ -> _NeoProtect_ -> _BungeeCord/Velocity/Any other proxy_ -> _Spigot_
-
-Anywhere in on of these "arrows" displaying a tcp connection, could be an issue.
-With this method we are able to locate where the issue lies.
-
-#### Tutorial:
-
-To use that you need to [download our plugin](../features/neoplugin.md#install-instructions) and have it setup correctly.
-
-After that you are able to use the command `/np debugTool` to start the debug.
-It will run and once its finished, you will get a path where you can find the gathered information.
-
-Send that into your ticket and we will analyse it for you.
