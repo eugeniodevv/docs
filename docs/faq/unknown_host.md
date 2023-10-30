@@ -28,6 +28,3 @@ You might want to cooperate with the players and getting them to change their dn
 more reliable dns servers like cloudflare or google.
 
 On windows, your player might execute `ipconfig /flushdns` as well to delete all cached dns answers.
-
-Additionally, it would be required to change the dns server. Therefor you might use [a tutorial of one of our partners](https://docs.jasmeowthecat.lgbt/books/minecraft/page/updating-dns-records-on-your-device-fixing-your-connection)
-to send to your user.
