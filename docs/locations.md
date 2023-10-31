@@ -12,6 +12,7 @@ guarantee low latencies and zero packet loss.
 ## [AS199414](https://as199414.net) PoPs
 - Frankfurt, Germany
 - Ashburn, USA
+- Miami, USA
 
 To check the latency from our PoPs you may visit our [Looking Glass](https://lg.neoprotect.net).
 If you are interested in a quick overview of our carriers you can check out https://bgp.tools/as/199414#connectivity.
