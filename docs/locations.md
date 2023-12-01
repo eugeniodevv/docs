@@ -18,9 +18,7 @@ To check the latency from our PoPs you may visit our [Looking Glass](https://lg.
 If you are interested in a quick overview of our carriers you can check out https://bgp.tools/as/199414#connectivity.
 
 ## Legacy locations (OVHcloud)
-- Frankfurt, Germany
 - Warsaw, Poland
-- Mumbai, India (Neo plan or higher)
 
 Over time the legacy locations will be replaced by our own [PoPs](#as199414-pops).
 
