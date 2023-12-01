@@ -47,7 +47,7 @@ These rules alone can drop attacks of up to **130 Tbit/s** on the edge.
 ## Layer 7 Protection
 
 Our Layer 7 Protection is always active and works in-line with zero TTM (time to mitigate).
-All scrubbing nodes are connected with redundant high-bandwidth ports (n x 100G).
+All scrubbing nodes are connected with redundant high-bandwidth ports (n x 40G).
 
 Every incoming packet is checked to make sure that it follows a specific application protocol,
 like the [Minecraft Protocol](https://wiki.vg/Protocol).
