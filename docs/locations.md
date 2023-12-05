@@ -13,6 +13,7 @@ guarantee low latencies and zero packet loss.
 - Frankfurt, Germany
 - Ashburn, USA
 - Miami, USA
+- Tokyo, Japan
 
 To check the latency from our PoPs you may visit our [Looking Glass](https://lg.neoprotect.net).
 If you are interested in a quick overview of our carriers you can check out https://bgp.tools/as/199414#connectivity.
