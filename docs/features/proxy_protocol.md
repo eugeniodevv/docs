@@ -9,6 +9,9 @@ Disabling Proxy Protocol can cause many problems with your backend server, e.g.,
 
 That's why you should **always enable Proxy Protocol**.
 
+Once you enabled Proxy Protocol all connections must be proxied through our service
+and normal (direct) connections won't work anymore.
+
 :::
 
 ## How to enable proxy protocol correctly
