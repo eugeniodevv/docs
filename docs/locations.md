@@ -20,6 +20,7 @@ If you are interested in a quick overview of our carriers you can check out http
 
 ## Legacy locations (OVHcloud)
 - Warsaw, Poland
+- Frankfurt (Limburg), Germany
 
 Over time the legacy locations will be replaced by our own [PoPs](#as199414-pops).
 
