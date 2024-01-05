@@ -9,7 +9,7 @@ which could harm your server.
 Therefore, it's highly recommended to keep this setting enabled.
 
 If you still want to disable or purge the cache completely it's possible through
-our [Panel](https://panel.neoprotect.net) or our [Rest API](rest_api.md).
+our [Panel](https://panel.neoprotect.net) or our [Rest API](../../rest_api.md).
 
 Note: We always cache the server status for each of your domains separately, which means that even
 MOTD plugins with special behavior can work as expected.

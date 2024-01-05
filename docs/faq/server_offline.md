@@ -1,9 +1,8 @@
 ---
 sidebar_position: 9
-title: "'Server is offline' error"
 ---
 
-# Resolving the 'Server is offline' error
+# "Server is offline" error
 
 This error indicates that something is wrong when our nodes try to reach your backend.
 While we do provide assistance with resolving this, this site should be self-explanatory and should
@@ -23,7 +22,7 @@ long as the plugin has the right api key.
 
 #### You do not use our plugin
 
-Make sure to have set ALL config options we listed [here](../features/proxy_protocol.md) and to have proxy protocol
+Make sure to have set ALL config options we listed [here](proxy_protocol.md) and to have proxy protocol
 turned on in our panel.
 
 ### 2. Check if you entered the right backend ip:port

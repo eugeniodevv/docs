@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Hiding your server's IP
 
 At all times, several devices are scanning the internet to identify open ports and gather data about them.
@@ -5,7 +9,7 @@ These systems might expose your backend's IP address, which could leave your net
 
 Therefore, it's highly important to **only allow connections to your Minecraft server port from our edge IP addresses**. You can use any firewall solution to achieve this, e.g. IP-tables/UFW or even hoster-level firewalls from Hetzner, OVH, etc.
 
-You can find our current IP addresses through our [RESTful API](rest_api.md):
+You can find our current IP addresses through our [RESTful API](../rest_api.md):
 
 - as JSON: https://api.neoprotect.net/v2/public/servers
 - as TXT: https://api.neoprotect.net/v2/public/servers/txt

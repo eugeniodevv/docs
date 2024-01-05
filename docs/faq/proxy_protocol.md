@@ -1,3 +1,7 @@
+---
+sidebar_position: 0
+---
+
 # Proxy Protocol (IP forwarding)
 
 [Proxy Protocol](https://www.haproxy.org/download/1.8/doc/proxy-protocol.txt) is a standardized protocol,

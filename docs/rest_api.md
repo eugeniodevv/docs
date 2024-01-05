@@ -1,3 +1,9 @@
+---
+sidebar_position: 10
+slug: /api
+title: "API"
+---
+
 # REST API
 
 You can use our RESTful API to automate your server settings, backends, mitigation settings, and more...

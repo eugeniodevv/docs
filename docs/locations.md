@@ -10,6 +10,7 @@ We operate our highly available PoPs (points of presence) in multiple locations 
 guarantee low latencies and zero packet loss.
 
 ## [AS199414](https://as199414.net) PoPs
+**(GameShield, RemoteShield, IP-Transit)**
 - Frankfurt, Germany
 - Ashburn, USA
 - Miami, USA
@@ -19,9 +20,12 @@ To check the latency from our PoPs you may visit our [Looking Glass](https://lg.
 If you are interested in a quick overview of our carriers you can check out https://bgp.tools/as/199414#connectivity.
 
 ## Legacy locations (OVHcloud)
+**(GameShield)**
 - Warsaw, Poland
 - Frankfurt (Limburg), Germany
 
 Over time the legacy locations will be replaced by our own [PoPs](#as199414-pops).
+
+## Custom locations
 
 If none of these locations fit your needs you may contact us on our [Discord](https://discord.neoprotect.net) for a custom solution.

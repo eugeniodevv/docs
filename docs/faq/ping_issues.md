@@ -1,9 +1,8 @@
 ---
-sidebar_position: 9
-title: "Ping/stability issues"
+sidebar_position: 5
 ---
 
-# Ping/stability issues
+# Latency / Stability issues
 
 If you observe any ping related issues it is very important to **not just open a ticket and say
 "My ping is high, fix it!"** but to **provide useful information** for us to trace the problem.

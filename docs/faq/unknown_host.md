@@ -1,9 +1,8 @@
 ---
 sidebar_position: 9
-title: "Unknown host"
 ---
 
-# Unknown host
+# "Unknown host" error
 
 This is a very common error displayed by the client indicating one of the following things:
 

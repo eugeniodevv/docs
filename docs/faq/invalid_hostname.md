@@ -1,9 +1,8 @@
 ---
-sidebar_position: 9
-title: "'Invalid hostname' error"
+sidebar_position: 10
 ---
 
-# 'Invalid hostname' error
+# "Invalid hostname" error
 
 ## The actual error
 

@@ -1,0 +1,8 @@
+{
+  "label": "RemoteShield",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Get help regarding our RemoteShield service."
+  }
+}
