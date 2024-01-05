@@ -12,8 +12,11 @@ guarantee low latencies and zero packet loss.
 ## [AS199414](https://as199414.net) PoPs
 **(GameShield, RemoteShield, IP-Transit)**
 - Frankfurt, Germany
+- Paris, France
+- Bucharest, Romania
 - Ashburn, USA
 - Miami, USA
+- Los Angeles, USA
 - Tokyo, Japan
 
 To check the latency from our PoPs you may visit our [Looking Glass](https://lg.neoprotect.net).
