@@ -15,7 +15,7 @@ You can find our current IP addresses through our [RESTful API](../rest_api.md):
 - as TXT: https://api.neoprotect.net/v2/public/servers/txt
 
 In the event of an attack, which targets your server ip directly, you should check for any ip leaks on your end,
-e.g. in your DNS records (see [DNS setup](../setup/dns.md)), or a missing firewall.
+e.g. in your DNS records (see [DNS setup](../gameshield/setup.md)), or a missing firewall.
 After the leak is fixed you must get a new server IP from your hoster,
 which can be requested through their support.
 

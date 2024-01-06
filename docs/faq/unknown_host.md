@@ -13,7 +13,7 @@ This is a very common error displayed by the client indicating one of the follow
 
 ### Check if you configured the dns properly
 
-You can verify our dns configuration by taking a look at our [setup tutorial page](../setup/dns.md)
+You can verify our dns configuration by taking a look at our [setup tutorial page](../gameshield/setup.md)
 
 ### Check if your server is blocked by Mojang
 

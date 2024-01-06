@@ -28,7 +28,7 @@ A server/network can have multiple domains and backend servers.
 
 ## 3. Set up your Domain
 
-Take a look here: [Domain Setup](setup/dns.md)
+Take a look here: [Domain Setup](gameshield/setup.md)
 
 
 ## 4. Configure proxy protocol
