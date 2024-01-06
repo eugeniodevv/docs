@@ -33,7 +33,7 @@ Take a look here: [Domain Setup](gameshield/setup.md)
 
 ## 4. Configure proxy protocol
 
-Enable Proxy Protocol using our [Guide](faq/proxy_protocol.md).
+Enable Proxy Protocol using our [Guide](gameshield/proxy_protocol.md).
 If you need any help you can visit our [Discord Server](https://discord.neoprotect.net).
 
 ## Finished!
