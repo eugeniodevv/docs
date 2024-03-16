@@ -16,7 +16,9 @@ guarantee low latencies and zero packet loss.
 - Bucharest, Romania
 - Ashburn, USA
 - Miami, USA
+- Dallas, USA
 - Los Angeles, USA
+- Singapore
 - Tokyo, Japan
 
 To check the latency from our PoPs you may visit our [Looking Glass](https://lg.neoprotect.net).
