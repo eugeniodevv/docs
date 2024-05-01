@@ -29,19 +29,38 @@ packets are passed to your tunnel endpoints.
 
 You can create multiple rules for each destination IP with the following options:
 - Destination IP
+- Source IP/CIDR
 - Priority (rule order)
 - Destination port or port range
+- TCP flags
 - Protocol (ICMP, TCP, UDP, GRE)
 - Actions
   - Accept (pass packets using only RFC protocol header validation)
   - Filter (only pass packets which pass the selected filter or the default filter based on port ranges)
-    - Minecraft Java (TCP)
-    - RakNet: Minecraft Bedrock, Rust, etc. (UDP)
-    - Source Engine (UDP)
-    - HTTP (TCP)
-    - TLS (TCP)
-    - Plasmo Voice (UDP)
-  - Drop (block all packets)
+  - Drop (block all packets matching this rule)
+
+## Filter Profiles
+We currently provide the following filter filters:
+- Minecraft Java (TCP)
+- HTTP (TCP)
+- TLS (TCP)
+- RDP (TCP)
+- SSH (TCP)
+- RakNet (Rust, MCPE, Terraria, 7 Days to Die, ...) (UDP)
+- Source Engine Gold/1/2 (UDP)
+- Steam Query (UDP)
+- Plasmo Voice Mod (UDP)
+- DayZ (UDP)
+- TeamSpeak 3/5 (UDP)
+- WireGuard (UDP)
+- QUIC (UDP)
+- FiveM (TCP/UDP)
+
+In addition to these filters we provide generic and stateful protection for the following protocols:
+- TCP
+- UDP
+- ICMP
+- GRE/IPIP, ...
 
 ## Mitigation settings
 
