@@ -40,7 +40,7 @@ You can create multiple rules for each destination IP with the following options
   - Drop (block all packets matching this rule)
 
 ## Filter Profiles
-We currently provide the following filter filters:
+We currently provide the following filters:
 - Minecraft Java (TCP)
 - HTTP (TCP)
 - TLS (TCP)
@@ -55,6 +55,7 @@ We currently provide the following filter filters:
 - WireGuard (UDP)
 - QUIC (UDP)
 - FiveM (TCP/UDP)
+- ... more to come
 
 In addition to these filters we provide generic and stateful protection for the following protocols:
 - TCP
