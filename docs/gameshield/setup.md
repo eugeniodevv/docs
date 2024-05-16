@@ -2,7 +2,7 @@
 
 ## 1. Log in to your DNS console
 Login to your DNS provider and click on the domain you want to protect.
-We will assume you are using [Cloudflare](https://dash.cloudflare.com) to manage your domain in this guide.
+We will assume you are using [Cloudflare](https://dash.cloudflare.com) to manage your domain in this guide, and we recommend you to do so.
 
 ## 2. Remove existing DNS records
 Please check your current DNS records for existing backend servers (real IP addresses).
